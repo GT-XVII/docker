@@ -10,7 +10,7 @@ docker run sha256:6428e55f91373f1bc2b9a507c8b20b625374a14c9d431f33089c929235ae60
 docker run -p 5000:8080 sha256:6428e5…
 
 ## Show all running containers
-Cmd: docker ps
+docker ps
 
 ## Stop a container
 docker stop sha:123....
